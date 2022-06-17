@@ -26,7 +26,7 @@ public class Prospect {
 
     private Character gender;
 
-    private Character nacionality;
+    private Character nationality;
 
     private String maritalStatus;
 
